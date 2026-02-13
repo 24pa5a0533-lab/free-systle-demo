@@ -1,5 +1,4 @@
-# free-stsyle-demo
-public class Main {
+public free systle demo {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
